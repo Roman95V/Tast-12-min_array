@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int[] array = new int[]{1,1,1,3,5,7,9,11,13,15,17,19};
+        int[] array = new int[]{1,1,1,3,5,7,9,11,13,15,17,19,20};
         int min = array[0];
         System.out.println("Min values in array:");
         for(int num : array){
